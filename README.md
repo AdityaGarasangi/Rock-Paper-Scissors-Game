@@ -2,23 +2,21 @@
 
 A simple implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript. Play against the computer and keep track of your score in this interactive game.
 
-Features:
+➢  Features:
 
-Clickable choices for Rock, Paper, or Scissors.
+•	 Clickable choices for Rock, Paper, or Scissors.
 
-Displays the winner after each round and updates scores accordingly.
+•	 Displays the winner after each round and updates scores accordingly.
 
-Includes a reset button to start a new game.
+•	 Includes a reset button to start a new game.
 
-Technologies Used:
+➢ Technologies Used:
 
+•	HTML
 
-HTML
+•	CSS
 
-CSS
-
-
-JavaScript
+•	JavaScript
 
 
 
